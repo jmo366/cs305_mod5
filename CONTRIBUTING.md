@@ -3,4 +3,4 @@ player health and player designs
 
 Implemenintation of music would also be cool.
 
-I was able to create the functions for player health and designs but had a difficult time designing the Aliens.
+Jennie Butch: I was able to create the functions for player health and designs but had a difficult time designing the Aliens.
