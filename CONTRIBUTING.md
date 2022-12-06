@@ -2,3 +2,5 @@ Potential contributors: The game is need for the implemnation of code that desig
 player health and player designs 
 
 Implemenintation of music would also be cool. 
+
+Ceanna Jarrett: I was create a music for the game. And uploaded it to the game.
