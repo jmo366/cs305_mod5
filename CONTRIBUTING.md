@@ -6,4 +6,4 @@ Implemenintation of music would also be cool.
 
 Ceanna Jarrett: I was create a music for the game. And uploaded it to the game.
 
-Jennie Butch: I was able to create the functions for player health and designs but had a difficult time designing the Aliens.
+Jennie Butch: I was able to create the functions for player health and designs but had a difficult time designing the Aliens. :)
